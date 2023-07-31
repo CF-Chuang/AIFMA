@@ -1,0 +1,2 @@
+url = 'https://mops.twse.com.tw/mops/web/ajax_t163sb01'
+myload = {'encodeURIComponent':'1', step':'1','firstin':'1','off':'1','queryName':'co_id','inpuType':'co_id','TYPEK':'all','isnew':'false','co_id':'2330','year':'111','season':'4'}
